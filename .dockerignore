@@ -1,0 +1,16 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+.git
+.gitignore
+venv
+env
+.venv
+.vscode
+.idea
+*.md
+railway.json
+fly.toml
+runtime.txt
