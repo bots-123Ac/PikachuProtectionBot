@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+pymongo==4.6.1
+psutil==5.9.5
+flask==2.3.3
+python-dotenv==1.0.0
