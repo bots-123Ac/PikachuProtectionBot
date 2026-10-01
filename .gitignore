@@ -1,0 +1,11 @@
+# .gitignore
+.env
+*.env
+.env.*
+*.pyc
+__pycache__/
+*.session
+*.session-journal
+*.db
+*.sqlite3
+*.log
